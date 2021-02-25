@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "..\\Portfilio\\assets"
+		},
+		{
+			"name": "newPortfilio",
+			"path": "."
+		},
+		{
+			"path": "..\\Portfilio\\images"
+		}
+	],
+	"settings": {}
+}
